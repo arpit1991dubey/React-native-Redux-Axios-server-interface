@@ -1,4 +1,6 @@
 # React-native-Redux-Axios-server-interface
+[![HitCount](http://hits.dwyl.io/arpit1991dubey/arpit1991dubey/React-native-Redux-Axios-server-interface.svg)](http://hits.dwyl.io/arpit1991dubey/arpit1991dubey/React-native-Redux-Axios-server-interface)
+
 This ia a React-native-redux-axios-Template which uses axios for http request. It also uses redux for state management. In this
 template the app has two tabs one for get request and on for post request. In the get request tab the app requests the server 
 for data and displace it as a list in ScrollView. On selecting one of the items from the list we can move to a details page in 
